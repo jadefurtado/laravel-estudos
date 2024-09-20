@@ -4,9 +4,9 @@ Bem-vindo ao repositório de estudos sobre Laravel! Este repositório contém um
 
 ## Status do Repositório 📊
 
-As anotações ainda estão em processo de organização. Em breve, espero categorizar melhor o conteúdo para facilitar o acesso e o aprendizado. Atualmente, você encontrará anotações soltas e tópicos variados relacionados ao Laravel.
+As anotações ainda estão **em processo de organização**. Em breve, espero categorizar melhor o conteúdo para facilitar o acesso e o aprendizado. Atualmente, você encontrará anotações soltas e tópicos variados relacionados ao Laravel.
 
-## Estrutura do Repositório 
+## Estrutura do Repositório 📁
 
 Atualmente, as anotações estão disponíveis em formato Markdown e cobrem os seguintes tópicos:
 
