@@ -6,7 +6,7 @@ O Laravel possui uma forma mais fácil de criar os métodos do Controller.
 
 #### Criando o Controller
 
-`php artisan make:controller Form/TestController --resource --model=User
+`php artisan make:controller Form/TestController --resource --model=User`
 
 O parâmetro `--resource` cria todos os métodos necessários e o parâmetro `--model=User` faz com que seja feita toda a injeção de dependência nos métodos.
 
